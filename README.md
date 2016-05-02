@@ -1,2 +1,2 @@
 # woxballblink
-arduino sketch for RH design box wall
+Arduino sketch for blinky lights on box panel for Red Hat design wall. woxball = boxwall
